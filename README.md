@@ -2,7 +2,7 @@
 
 ## 📌 Visão Geral
 
-Este projeto apresenta um **dashboard de pesquisa de satisfação dos colaboradores**, desenvolvido em **Power BI** para a empresa fictícia **Nexora Group**.
+Este projeto apresenta um **dashboard de pesquisa de satisfação dos colaboradores**, desenvolvido em **Power BI**, para a empresa fictícia **Nexora Group**.
 
 A solução permite acompanhar indicadores estratégicos de clima organizacional, engajamento e retenção, comparando diferentes ciclos de entrevistas e facilitando decisões de gestão de pessoas.
 
@@ -15,8 +15,8 @@ A solução permite acompanhar indicadores estratégicos de clima organizacional
 
 A **Nexora Group** precisava compreender:
 
-- o nível de satisfação dos colaboradores  
-- fatores que impactavam engajamento, retenção e clima organizacional  
+- O nível de satisfação dos colaboradores  
+- Fatores que impactavam engajamento, retenção e clima organizacional  
 
 A ausência de visão consolidada dificultava a comparação entre ciclos de entrevistas e a identificação de tendências comportamentais.
 
@@ -26,20 +26,22 @@ A ausência de visão consolidada dificultava a comparação entre ciclos de ent
 
 O dashboard foi desenvolvido utilizando **Power BI** com **modelagem dimensional estruturada**, permitindo:
 
-- consolidação de indicadores como **Quantidade de Colaboradores, Cargos e Respostas Coletadas**  
-- análise comparativa entre **Entrevista 01** e **Entrevista 02**  
-- métricas de **Satisfeitos, Neutros e Insatisfeitos** em valores absolutos e percentuais  
+- Consolidação de indicadores como **Quantidade de Colaboradores, Cargos e Respostas Coletadas**  
+- Análise comparativa entre **Entrevista 01** e **Entrevista 02**  
+- Métricas de **Satisfeitos, Neutros e Insatisfeitos** em valores absolutos e percentuais  
+
+O painel foi organizado para oferecer **leitura executiva clara** e **navegação intuitiva** entre as métricas.
 
 ---
 
 ## 📈 Impactos e Resultados
 
-O projeto permitiu:
+A solução permitiu:
 
-- identificar variações no nível de satisfação entre ciclos de avaliação  
-- mapear faixas etárias predominantes  
-- analisar fontes de recrutamento  
-- acompanhar histórico de contratações por ano  
+- Identificar variações no nível de satisfação entre ciclos de avaliação  
+- Mapear faixas etárias predominantes  
+- Analisar fontes de recrutamento  
+- Acompanhar histórico de contratações por ano  
 
 Essas análises fortalecem decisões relacionadas a **retenção, desenvolvimento e gestão de clima organizacional**.
 
@@ -58,21 +60,22 @@ Essas análises fortalecem decisões relacionadas a **retenção, desenvolviment
 - **Gráfico de barras horizontais:** distribuição de faixas etárias  
 - **Treemap:** quantidade de recrutamento por canal  
 - **Gráfico de barras verticais:** quantidade de contratações por ano  
-- **Detalhamento da pesquisa:** gráfico de barras comparando Satisfeito, Neutro e Insatisfeito entre pesquisa 1 e pesquisa 2  
+- **Detalhamento da pesquisa:** comparação de Satisfeito, Neutro e Insatisfeito entre pesquisa 1 e pesquisa 2  
 - **Gráfico de barras verticais empilhadas:** percentuais para Saúde, Carga Horária e Salário  
 
 ### Interatividade e Navegação
 
 - **Filtro:** seleção da equipe entrevistada  
-- **Botão Analisar** para iniciar visualização  
-- **Ícones:** alternar entre Dark Mode (padrão) e Light Mode, voltar à Home  
+- **Link “Analisar Dashboard”** para abrir o dashboard interativo  
+- **Modos Dark (padrão) e Light opcional**  
+- **Ícone para voltar à Home** (descrição no README)
 
 ---
 
 ## 🛠️ Stack Técnica
 
 - **Power BI**: construção do dashboard e storytelling analítico  
-- **DAX**: criação de medidas e cálculos percentuais  
+- **DAX**: criação de medidas percentuais comparativas  
 - **Modelagem Dimensional**: organização de dados de colaboradores, cargos, recrutamento e avaliações  
 
 ---
@@ -94,11 +97,6 @@ Essas análises fortalecem decisões relacionadas a **retenção, desenvolviment
 
 ---
 
-## 📂 Estrutura do Repositório
-powerbi-recursos-humanos-nexora
-│
-├── README.md
-├── dashboard.pbix
-├── dataset/
-└── images/
-└── dashboard-preview.png
+# 📸 Preview do Dashboard
+
+![Dashboard Preview](images/recursos-humanos-nexora-group.png)
