@@ -95,3 +95,10 @@ Essas análises fortalecem decisões relacionadas a **retenção, desenvolviment
 ---
 
 ## 📂 Estrutura do Repositório
+powerbi-recursos-humanos-nexora
+│
+├── README.md
+├── dashboard.pbix
+├── dataset/
+└── images/
+└── dashboard-preview.png
