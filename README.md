@@ -6,7 +6,7 @@ Este projeto apresenta um **dashboard de pesquisa de satisfação dos colaborado
 
 A solução permite acompanhar indicadores estratégicos de clima organizacional, engajamento e retenção, comparando diferentes ciclos de entrevistas e facilitando decisões de gestão de pessoas.
 
-🔎 [Projeto Interativo](https://app.powerbi.com/view?r=eyJrIjoiNzZhNzE2YWEtZWNhMy00OGEzLTg0OTUtMzcyYmM3MGI2NGU2IiwidCI6IjIzY2FjN2VlLWYxZDgtNDMzOS1hYTdiLTc4MWFhOWY5MjI1YiJ9)
+🔎 [Dashboard Interativo](https://app.powerbi.com/view?r=eyJrIjoiNzZhNzE2YWEtZWNhMy00OGEzLTg0OTUtMzcyYmM3MGI2NGU2IiwidCI6IjIzY2FjN2VlLWYxZDgtNDMzOS1hYTdiLTc4MWFhOWY5MjI1YiJ9)
 
 ---
 
