@@ -1,4 +1,4 @@
-# 📊 Pesquisa de Satisfação dos Colaboradores — Nexora Group
+# 📊 Projeto Recursos Humanos — Nexora Group
 
 ## 📌 Visão Geral
 
