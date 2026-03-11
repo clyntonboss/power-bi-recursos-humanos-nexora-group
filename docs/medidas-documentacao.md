@@ -1,4 +1,4 @@
-# Documentação de Medidas - Projeto Nexora Group
+# Documentação das Medidas: Projeto Recursos Humanos — Nexora Group
 
 Este documento descreve as medidas criadas no modelo semântico do Power BI relacionadas às tabelas **dIntegrantes** e **fEntrevistas**.
 
