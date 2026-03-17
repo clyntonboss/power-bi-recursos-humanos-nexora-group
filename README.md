@@ -6,7 +6,7 @@ Este projeto apresenta um **dashboard de pesquisa de satisfação dos colaborado
 
 A solução permite acompanhar indicadores estratégicos de clima organizacional, engajamento e retenção, comparando diferentes ciclos de entrevistas e facilitando decisões de gestão de pessoas.
 
-🔎 [Dashboard Interativo](https://app.powerbi.com/view?r=eyJrIjoiNzZhNzE2YWEtZWNhMy00OGEzLTg0OTUtMzcyYmM3MGI2NGU2IiwidCI6IjIzY2FjN2VlLWYxZDgtNDMzOS1hYTdiLTc4MWFhOWY5MjI1YiJ9)
+🔎 **[Dashboard Interativo](https://app.powerbi.com/view?r=eyJrIjoiNzZhNzE2YWEtZWNhMy00OGEzLTg0OTUtMzcyYmM3MGI2NGU2IiwidCI6IjIzY2FjN2VlLWYxZDgtNDMzOS1hYTdiLTc4MWFhOWY5MjI1YiJ9)**  
 
 ---
 
@@ -100,9 +100,13 @@ Essas análises fortalecem decisões relacionadas a **retenção, desenvolviment
 
 ![Dashboard Preview](images/recursos-humanos-nexora-group.png)
 
+# 🗂️ Modelo de Dados
+
+![Modelo de Dados](images/modelo-dados-nexora-group.png)
+
 ## Documentação das Medidas
 
-Para consultar a documentação das medidas deste projeto, suas fórmulas e descrições, acesse a [Documentação das Medidas](docs/medidas-documentacao.md).
+Para consultar a documentação das medidas deste projeto, suas fórmulas e descrições, acesse a **[Documentação das Medidas](docs/medidas-documentacao.md)**.
 
 # 👨‍💻 Autor
 
@@ -126,7 +130,11 @@ Projeto desenvolvido como parte do meu portfólio profissional em **Business Int
   
 **Portfólio de Business Intelligence & Data Analytics**  
 
-<img src="images/phoenix-information-technology-solutions.png" width="540">
+<img src="images/assinatura.png" width="540">  
+
+---
+
+💼 Aberto a oportunidades em Business Intelligence & Data Analytics
 
 | [LinkedIn](https://www.linkedin.com/in/rogério-clynton-ribeiro/) | [Portfólio](https://clyntonboss.github.io/) |
 
