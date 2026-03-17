@@ -130,7 +130,7 @@ Projeto desenvolvido como parte do meu portfólio profissional em **Business Int
   
 **Portfólio de Business Intelligence & Data Analytics**  
 
-<img src="images/assinatura.png" width="540">  
+<img src="images/assinatura.png" width="400">  
 
 ---
 
