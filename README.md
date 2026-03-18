@@ -13,37 +13,111 @@ A solução permite acompanhar indicadores estratégicos de clima organizacional
 
 ## 🧠 Contexto do Problema
 
-A **Nexora Group** precisava compreender:
+A área de Recursos Humanos da **Nexora Group** enfrentava desafios na análise integrada de:
 
-- O nível de satisfação dos colaboradores  
-- Fatores que impactavam engajamento, retenção e clima organizacional  
+- estrutura organizacional (cargos e colaboradores)
+- perfil demográfico dos colaboradores
+- canais de recrutamento
+- nível de satisfação interna
 
-A ausência de visão consolidada dificultava a comparação entre ciclos de entrevistas e a identificação de tendências comportamentais.
+Essas limitações dificultavam a identificação de padrões, tendências de contratação e percepções críticas relacionadas ao ambiente organizacional, impactando diretamente a tomada de decisão estratégica.
 
 ---
 
 ## 🎯 Abordagem Estratégica
 
-O dashboard foi desenvolvido utilizando **Power BI** com **modelagem dimensional estruturada**, permitindo:
+Para resolver esses desafios, foi desenvolvida uma solução analítica utilizando **Power BI**, estruturada com **modelagem dimensional** e organização de indicadores estratégicos de capital humano.
 
-- Consolidação de indicadores como **Quantidade de Colaboradores, Cargos e Respostas Coletadas**  
-- Análise comparativa entre **Entrevista 01** e **Entrevista 02**  
-- Métricas de **Satisfeitos, Neutros e Insatisfeitos** em valores absolutos e percentuais  
+O dashboard foi projetado para oferecer:
 
-O painel foi organizado para oferecer **leitura executiva clara** e **navegação intuitiva** entre as métricas.
+- leitura executiva clara
+- análise detalhada de satisfação
+- navegação intuitiva entre visões organizacionais  
+
+### KPIs principais
+
+- Quantidade de Colaboradores
+- Quantidade de Cargos
+- Volume de Respostas
+
+---
+
+## 🧠 Metodologia Aplicada — BOSS BI Framework
+
+> Este projeto foi desenvolvido utilizando o BOSS BI Framework (Business-Oriented Smart Solutions), uma metodologia proprietária desenvolvida para estruturar projetos de Business Intelligence e Analytics, focada na geração de valor estratégico, consistência analítica e suporte à tomada de decisão.
+
+## 🔷 Fluxo do BOSS BI Framework
+
+```mermaid
+flowchart LR
+    A[Business Understanding] --> B[Data Understanding]
+    B --> C[Data Preparation]
+    C --> D[Data Modeling]
+    D --> E[Analytical Exploration]
+    E --> F[Data Visualization]
+    F --> G[Insights & Decision Support]
+    G --> H[Deployment]
+    H --> I[Continuous Improvement]
+    I --> A
+```
+
+## 📌 Detalhamento das Etapas
+
+### 🔹 1. Business Understanding
+Definição do problema analítico e alinhamento com os objetivos estratégicos do negócio, garantindo que a solução gere valor real e mensurável.
+
+---
+
+### 🔹 2. Data Understanding
+Mapeamento das fontes de dados e análise inicial para compreensão da estrutura, qualidade e granularidade das informações disponíveis.
+
+---
+
+### 🔹 3. Data Preparation
+Tratamento, limpeza e transformação dos dados, assegurando consistência, padronização e confiabilidade para análise.
+
+---
+
+### 🔹 4. Data Modeling
+Estruturação do modelo de dados utilizando boas práticas de modelagem dimensional, com foco em performance e escalabilidade.
+
+---
+
+### 🔹 5. Analytical Exploration
+Exploração dos dados para identificação de padrões, tendências, correlações e possíveis anomalias relevantes ao negócio.
+
+---
+
+### 🔹 6. Data Visualization
+Desenvolvimento de dashboards e relatórios interativos, aplicando princípios de visualização e Data Storytelling.
+
+---
+
+### 🔹 7. Insights & Decision Support
+Geração de insights acionáveis e recomendações estratégicas para apoiar a tomada de decisão baseada em dados.
+
+---
+
+### 🔹 8. Deployment
+Publicação e disponibilização da solução analítica, garantindo acesso, atualização e governança dos dados.
+
+---
+
+### 🔹 9. Continuous Improvement
+Monitoramento contínuo e evolução da solução, adaptando-se às mudanças e novas necessidades do negócio.
 
 ---
 
 ## 📈 Impactos e Resultados
 
-A solução permitiu:
+A solução permite:
 
-- Identificar variações no nível de satisfação entre ciclos de avaliação  
-- Mapear faixas etárias predominantes  
-- Analisar fontes de recrutamento  
-- Acompanhar histórico de contratações por ano  
+- identificar padrões de satisfação e insatisfação dos colaboradores
+- analisar a efetividade dos canais de recrutamento
+- compreender a distribuição demográfica da força de trabalho
+- comparar percepções entre diferentes entrevistas e dimensões organizacionais
 
-Essas análises fortalecem decisões relacionadas a **retenção, desenvolvimento e gestão de clima organizacional**.
+Com isso, gestores conseguem tomar decisões mais estratégicas e orientadas por dados na gestão de capital humano.
 
 ---
 
