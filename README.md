@@ -183,8 +183,8 @@ Gráfico de barras verticais comparando:
 
 Gráfico de barras empilhadas apresentando:
 
-- percentual de satisfação em Saúde, Carga Horária e Salário  
-- distribuição entre satisfeito, neutro e insatisfeito
+- percentual em Saúde, Carga Horária e Salário  
+- distribuição entre Satisfeito, Neutro e Insatisfeito
 
 ---
 
