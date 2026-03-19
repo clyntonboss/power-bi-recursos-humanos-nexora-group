@@ -137,9 +137,11 @@ O dashboard apresenta três cartões principais:
 
 ### Respostas
 
-- consolidação das respostas coletadas  
+- consolidação das respostas coletadas
 
-### Visualizações Analíticas
+---
+
+## 📊 Visualizações Analíticas
 
 - **Gráfico de barras horizontais:** distribuição de faixas etárias  
 - **Treemap:** quantidade de recrutamento por canal  
