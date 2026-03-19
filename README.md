@@ -156,7 +156,7 @@ Gráfico de barras horizontais apresentando:
 
 Gráfico Treemap exibindo:
 
-- contratações por canal (site de empregos, site da empresa, feiras e indicações)  
+- contratações por canal (Feira de Empregos, Indicação de Colaborador, Site da Organização e Site de Empregos)  
 - impacto relativo de cada fonte de recrutamento  
 
 ---
