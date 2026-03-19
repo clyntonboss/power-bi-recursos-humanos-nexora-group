@@ -143,11 +143,50 @@ O dashboard apresenta três cartões principais:
 
 ## 📊 Visualizações Analíticas
 
-- **Gráfico de barras horizontais:** distribuição de faixas etárias  
-- **Treemap:** quantidade de recrutamento por canal  
-- **Gráfico de barras verticais:** quantidade de contratações por ano  
-- **Detalhamento da pesquisa:** comparação de Satisfeito, Neutro e Insatisfeito entre pesquisa 1 e pesquisa 2  
-- **Gráfico de barras verticais empilhadas:** percentuais para Saúde, Carga Horária e Salário  
+### 👥 **Distribuição por Faixa Etária**
+
+Gráfico de barras horizontais apresentando:
+
+- quantidade de colaboradores por faixa etária  
+- análise do perfil demográfico organizacional  
+
+---
+
+### 🧲 **Formas de Recrutamento**
+
+Gráfico Treemap exibindo:
+
+- contratações por canal (site de empregos, site da empresa, feiras e indicações)  
+- impacto relativo de cada fonte de recrutamento  
+
+---
+
+### 📅 **Contratações por Ano**
+
+Gráfico de barras verticais mostrando:
+
+- evolução das contratações ao longo do tempo  
+- identificação de tendências de crescimento  
+
+---
+
+### 📊 **Comparativo entre Entrevistas**
+
+Gráfico de barras verticais comparando:
+
+- Entrevista 01 e Entrevista 02  
+- classificações: satisfeito, neutro e insatisfeito  
+
+---
+
+### 📊 **Análise de Satisfação por Dimensão**
+
+Gráfico de barras empilhadas apresentando:
+
+- percentual de satisfação em Saúde, Carga Horária e Salário  
+- distribuição entre satisfeito, neutro e insatisfeito
+
+---
 
 ### Interatividade e Navegação
 
