@@ -123,11 +123,21 @@ Com isso, gestores conseguem tomar decisões mais estratégicas e orientadas por
 
 ## 🧩 Estrutura do Dashboard
 
-### Indicadores Principais
+### 📊 **Indicadores Principais**
 
-- **Colaboradores:** quantidade de colaboradores participantes  
-- **Cargos:** quantidade de cargos monitorados  
-- **Respostas:** consolidação das respostas coletadas  
+O dashboard apresenta três cartões principais:
+
+### Colaboradores
+
+- quantidade de colaboradores participantes
+
+### Cargos
+
+- quantidade de cargos monitorados
+
+### Respostas
+
+- consolidação das respostas coletadas  
 
 ### Visualizações Analíticas
 
