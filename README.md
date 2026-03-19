@@ -188,47 +188,78 @@ Gráfico de barras empilhadas apresentando:
 
 ---
 
-### Interatividade e Navegação
+## 🎛️ Filtros Interativos
 
-- **Filtro:** seleção da equipe entrevistada  
-- **Link “Analisar Dashboard”** para abrir o dashboard interativo  
-- **Modos Dark (padrão) e Light opcional**  
-- **Ícone para voltar à Home** (descrição no README)
+O dashboard permite análise dinâmica por:
+
+- **Unidade**
+
+Esse filtro permite explorar diferentes cenários analíticos.
+
+---
+
+## 🎨 Experiência de Navegação
+
+O dashboard inclui recursos de usabilidade e design:
+
+- 🌙 **Modo Dark (padrão)**
+- ☀️ **Modo Light (opcional)**
+- 🔎 botão **Analisar**
+- 🏠 botão **Home**
+
+Esses elementos melhoram a experiência de exploração dos dados.
 
 ---
 
 ## 🛠️ Stack Técnica
 
-- **Power BI**: construção do dashboard e storytelling analítico  
-- **DAX**: criação de medidas percentuais comparativas  
-- **Modelagem Dimensional**: organização de dados de colaboradores, cargos, recrutamento e avaliações  
+- Microsoft Power BI
+- Power Query
+- DAX (Data Analysis Expressions)
+- Modelagem Dimensional
+- Storytelling com Dados
 
 ---
 
 ## 🧱 Modelagem de Dados
 
-**Tabelas Fato:**
+❄️ **Snowflake Schema**
 
-- respostas da pesquisa  
-- contratações  
-- colaboradores  
+Neste projeto, foi adotado o modelo Snowflake como estratégia de modelagem dimensional, priorizando a normalização controlada de dimensões para promover organização estrutural, governança de dados e reutilização de hierarquias.  
 
-**Tabelas Dimensão:**
+A decomposição de dimensões em múltiplas tabelas reduz redundâncias, melhora a consistência dos dados e permite maior flexibilidade na manutenção e evolução do modelo, especialmente em cenários com estruturas hierárquicas complexas, como dimensões geográficas ou categóricas.
 
-- cargos  
-- equipes  
-- canais de recrutamento  
-- faixas etárias  
+Essa abordagem é especialmente útil em contextos que exigem padronização, reuso de entidades e maior controle sobre a integridade dos dados ao longo do tempo.
+
+### **Tabelas Fato**
+
+- entrevista 01
+- entrevista 02
+- entrevistas
+
+### **Tabelas Dimensão**
+
+- respostas
+- temas
+- colaboradores
+- unidades
+- cargos
+- recrutamento
+- calendário
+
+Com isso, a solução proporciona maior padronização e consistência estrutural dos dados, permitindo análises mais confiáveis, melhor governança das informações e maior flexibilidade para evolução do modelo analítico conforme novas necessidades do negócio.
+
+## 🗂️ Modelo de Dados
+
+![Modelo de Dados](images/modelo-dados-nexora-group.png)  
+
+A modelagem foi estruturada para equilibrar normalização e desempenho, sendo possível sua adaptação para um modelo estrela em cenários que priorizem performance analítica.
 
 ---
 
 # 📸 Preview do Dashboard
 
 ![Dashboard Preview](images/recursos-humanos-nexora-group.png)
-
-# 🗂️ Modelo de Dados
-
-![Modelo de Dados](images/modelo-dados-nexora-group.png)
 
 ## Documentação das Medidas
 
