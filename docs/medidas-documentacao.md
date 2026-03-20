@@ -5,8 +5,7 @@ Este documento lista todas as medidas criadas no modelo Power BI, suas regras de
 ---
 
 ## Medidas de Contagem
-
-### quatidade_colaboradores
+<br>
 
 ```DAX
 quantidade_colaboradores = 
@@ -43,10 +42,7 @@ RETURN
         0
     )
 ```
-
-Descrição: Quantidade de colaboradores participantes.
-
-### quantidade_cargos
+<br>
 
 ```DAX
 quantidade_cargos = 
@@ -83,9 +79,7 @@ RETURN
         0
     )
 ```
-Descrição: Quantidade de cargos monitorados.
-
-### quatidade_perguntas
+<br>
 
 ```DAX
 quantidade_perguntas = 
@@ -122,4 +116,3 @@ RETURN
         0
     )
 ```
-Descrição: Quantidade perguntas durante as entrevistas.
