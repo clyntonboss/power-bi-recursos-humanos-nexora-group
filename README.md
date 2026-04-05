@@ -39,6 +39,8 @@ A solução permite acompanhar indicadores estratégicos de clima organizacional
 ---
 
 ## 🧠 Contexto do Problema
+[← Topo](#projeto-recursos-humanos--nexora-group)
+<br>
 
 A área de Recursos Humanos da **Nexora Group** enfrentava desafios na análise integrada de:
 
@@ -52,6 +54,8 @@ Essas limitações dificultavam a identificação de padrões, tendências de co
 ---
 
 ## 🎯 Abordagem Estratégica
+[← Topo](#projeto-recursos-humanos--nexora-group)
+<br>
 
 Para resolver esses desafios, foi desenvolvida uma solução analítica utilizando **Power BI**, estruturada com **modelagem dimensional** e organização de indicadores estratégicos de capital humano.
 
@@ -70,10 +74,14 @@ O dashboard foi projetado para oferecer:
 ---
 
 ## 🧠 Metodologia Aplicada — BOSS BI Framework
+[← Topo](#projeto-recursos-humanos--nexora-group)
+<br>
 
 > Este projeto foi desenvolvido utilizando o BOSS BI Framework (Business-Oriented Smart Solutions), uma metodologia proprietária desenvolvida para estruturar projetos de Business Intelligence e Analytics, focada na geração de valor estratégico, consistência analítica e suporte à tomada de decisão.
 
 ## 🔷 Fluxo do BOSS BI Framework
+[← Topo](#projeto-recursos-humanos--nexora-group)
+<br>
 
 ```mermaid
 flowchart LR
@@ -89,6 +97,8 @@ flowchart LR
 ```
 
 ## 📌 Detalhamento das Etapas
+[← Topo](#projeto-recursos-humanos--nexora-group)
+<br>
 
 ### 🔹 1. Business Understanding
 Definição do problema analítico e alinhamento com os objetivos estratégicos do negócio, garantindo que a solução gere valor real e mensurável.
@@ -136,6 +146,8 @@ Monitoramento contínuo e evolução da solução, adaptando-se às mudanças e 
 ---
 
 ## 📈 Impactos e Resultados
+[← Topo](#projeto-recursos-humanos--nexora-group)
+<br>
 
 A solução permite:
 
@@ -149,6 +161,8 @@ Com isso, gestores conseguem tomar decisões mais estratégicas e orientadas por
 ---
 
 ## 🧩 Estrutura do Dashboard
+[← Topo](#projeto-recursos-humanos--nexora-group)
+<br>
 
 ### 📊 **Indicadores Principais**
 
@@ -169,6 +183,8 @@ O dashboard apresenta três cartões principais:
 ---
 
 ## 📊 Visualizações Analíticas
+[← Topo](#projeto-recursos-humanos--nexora-group)
+<br>
 
 ### 👥 **Distribuição por Faixa Etária**
 
@@ -216,6 +232,8 @@ Gráfico de barras empilhadas apresentando:
 ---
 
 ## 🎛 Filtros Interativos
+[← Topo](#projeto-recursos-humanos--nexora-group)
+<br>
 
 O dashboard permite análise dinâmica por:
 
@@ -226,6 +244,8 @@ Esse filtro permite explorar diferentes cenários analíticos.
 ---
 
 ## 🎨 Experiência de Navegação
+[← Topo](#projeto-recursos-humanos--nexora-group)
+<br>
 
 O dashboard inclui recursos de usabilidade e design:
 
@@ -239,6 +259,8 @@ Esses elementos melhoram a experiência de exploração dos dados.
 ---
 
 ## 🛠 Stack Técnica
+[← Topo](#projeto-recursos-humanos--nexora-group)
+<br>
 
 - Excel
 - Power BI
@@ -251,6 +273,8 @@ Esses elementos melhoram a experiência de exploração dos dados.
 ---
 
 ## 🧱 Modelagem de Dados
+[← Topo](#projeto-recursos-humanos--nexora-group)
+<br>
 
 ❄️ **Snowflake Schema**
 
@@ -279,6 +303,8 @@ Essa abordagem é especialmente útil em contextos que exigem padronização, re
 Com isso, a solução proporciona maior padronização e consistência estrutural dos dados, permitindo análises mais confiáveis, melhor governança das informações e maior flexibilidade para evolução do modelo analítico conforme novas necessidades do negócio.
 
 ## 📉 Modelo de Dados
+[← Topo](#projeto-recursos-humanos--nexora-group)
+<br>
 
 ![Modelo de Dados](images/modelo-dados-nexora-group.png)  
 
@@ -287,14 +313,20 @@ A modelagem foi estruturada para equilibrar normalização e desempenho, sendo p
 ---
 
 # 📸 Preview do Dashboard
+[← Topo](#projeto-recursos-humanos--nexora-group)
+<br>
 
 ![Dashboard Preview](images/recursos-humanos-nexora-group.png)
 
 ## 📄 Documentação das Medidas
+[← Topo](#projeto-recursos-humanos--nexora-group)
+<br>
 
 Para consultar a documentação das medidas deste projeto, suas fórmulas e descrições, acesse a **[Documentação das Medidas](docs/medidas-documentacao.md)**.
 
 ## 👤 Autor
+[← Topo](#projeto-recursos-humanos--nexora-group)
+<br>
 
 Projeto desenvolvido como parte do meu portfólio profissional em **Business Intelligence e Data Analytics**, destacando habilidades avançadas e aplicáveis a diversos cenários analíticos:
 
