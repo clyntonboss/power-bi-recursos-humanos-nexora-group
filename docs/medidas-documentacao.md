@@ -3,7 +3,7 @@
 Este documento lista todas as medidas criadas no modelo Power BI, suas regras de negócio, dependências e retornos esperados.
 <br>
 
-[← Voltar ao Projeto](https://github.com/clyntonboss/power-bi-logistica-transflow-logistics)
+[← Voltar ao Projeto](https://github.com/clyntonboss/power-bi-recursos-humanos-nexora-group)
 <br>
 
 ---
@@ -120,3 +120,6 @@ RETURN
         0
     )
 ```
+<br>
+
+[← Voltar ao Projeto](https://github.com/clyntonboss/power-bi-recursos-humanos-nexora-group
