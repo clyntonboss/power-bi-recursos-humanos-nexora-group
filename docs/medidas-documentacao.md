@@ -8,7 +8,7 @@ Este documento lista todas as medidas criadas no modelo Power BI, suas regras de
 
 ---
 
-## Medidas de Contagem
+## 🧮 Medidas de Contagem
 <br>
 
 ```DAX
