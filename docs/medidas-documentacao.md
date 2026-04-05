@@ -122,4 +122,4 @@ RETURN
 ```
 <br>
 
-[← Voltar ao Projeto](https://github.com/clyntonboss/power-bi-recursos-humanos-nexora-group
+[← Voltar ao Projeto](https://github.com/clyntonboss/power-bi-recursos-humanos-nexora-group)
