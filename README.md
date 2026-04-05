@@ -1,6 +1,31 @@
 # Projeto Recursos Humanos — Nexora Group
 ![BOSS BI Framework](https://img.shields.io/badge/Powered%20by-BOSS%20BI%20Framework-black?style=for-the-badge&logo=powerbi&logoColor=yellow)  
 
+---
+
+Índice:
+<br>
+
+- 📊 [Visão Geral](#-visão-geral)
+- 🧠 [Contexto do Problema](#-contexto-do-problema)
+- 🎯 [Abordagem Estratégica](#-abordagem-estratégica)
+- 🧠 [Metodologia Aplicada](#-metodologia-aplicada--boss-bi-framework)
+- 🔷 [Fluxo da Metodologia](#-fluxo-do-boss-bi-framework)
+- 📌 [Detalhamento das Etapas](#-detalhamento-das-etapas)
+- 📈 [Impactos e Resultados](#-impactos-e-resultados)
+- 🧩 [Estrutura do Dashboard](#-estrutura-do-dashboard)
+- 📊 [Visualizações Analíticas](#-visualizações-analíticas)
+- 🎛️ [Filtros Interativos](#-filtros-interativos)
+- 🎨 [Experiência de Navegação](#-experiência-de-navegação)
+- 🛠️ [Stack Técnica](#-stack-técnica)
+- 🧱 [Modelagem de Dados](#-modelagem-de-dados)
+- 🗂️ [Modelo de Dados](#-modelo-de-dados)
+- 📸 [Preview do Dashboard](#-preview-do-dashboard)
+- 📄 [Documentação das Medidas](#-documentação-das-medidas)
+- 👨‍💻 [Autor](#-autor)
+
+---
+
 ## 📊 Visão Geral
 
 Este projeto apresenta um **dashboard de pesquisa de satisfação dos colaboradores**, desenvolvido em **Power BI**, para a empresa fictícia **Nexora Group**.
