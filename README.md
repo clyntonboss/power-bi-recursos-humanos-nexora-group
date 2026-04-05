@@ -288,11 +288,11 @@ A modelagem foi estruturada para equilibrar normalização e desempenho, sendo p
 
 ![Dashboard Preview](images/recursos-humanos-nexora-group.png)
 
-## Documentação das Medidas
+## 📄 Documentação das Medidas
 
 Para consultar a documentação das medidas deste projeto, suas fórmulas e descrições, acesse a **[Documentação das Medidas](docs/medidas-documentacao.md)**.
 
-# 👨‍💻 Autor
+## 👨‍💻 Autor
 
 Projeto desenvolvido como parte do meu portfólio profissional em **Business Intelligence e Data Analytics**, destacando habilidades avançadas e aplicáveis a diversos cenários analíticos:
 
