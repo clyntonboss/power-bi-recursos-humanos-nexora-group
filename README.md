@@ -15,14 +15,14 @@
 - 📈 [Impactos e Resultados](#-impactos-e-resultados)
 - 🧩 [Estrutura do Dashboard](#-estrutura-do-dashboard)
 - 📊 [Visualizações Analíticas](#-visualizações-analíticas)
-- 🎛️ [Filtros Interativos](#-filtros-interativos)
+- 🎛 [Filtros Interativos](#-filtros-interativos)
 - 🎨 [Experiência de Navegação](#-experiência-de-navegação)
-- 🛠️ [Stack Técnica](#-stack-técnica)
+- 🛠 [Stack Técnica](#-stack-técnica)
 - 🧱 [Modelagem de Dados](#-modelagem-de-dados)
-- 🗂️ [Modelo de Dados](#-modelo-de-dados)
+- 📉 [Modelo de Dados](#-modelo-de-dados)
 - 📸 [Preview do Dashboard](#-preview-do-dashboard)
 - 📄 [Documentação das Medidas](#-documentação-das-medidas)
-- 👨‍💻 [Autor](#-autor)
+- 👤 [Autor](#-autor)
 
 ---
 
@@ -213,7 +213,7 @@ Gráfico de barras empilhadas apresentando:
 
 ---
 
-## 🎛️ Filtros Interativos
+## 🎛 Filtros Interativos
 
 O dashboard permite análise dinâmica por:
 
@@ -236,7 +236,7 @@ Esses elementos melhoram a experiência de exploração dos dados.
 
 ---
 
-## 🛠️ Stack Técnica
+## 🛠 Stack Técnica
 
 - Excel
 - Power BI
@@ -276,7 +276,7 @@ Essa abordagem é especialmente útil em contextos que exigem padronização, re
 
 Com isso, a solução proporciona maior padronização e consistência estrutural dos dados, permitindo análises mais confiáveis, melhor governança das informações e maior flexibilidade para evolução do modelo analítico conforme novas necessidades do negócio.
 
-## 🗂️ Modelo de Dados
+## 📉 Modelo de Dados
 
 ![Modelo de Dados](images/modelo-dados-nexora-group.png)  
 
@@ -292,7 +292,7 @@ A modelagem foi estruturada para equilibrar normalização e desempenho, sendo p
 
 Para consultar a documentação das medidas deste projeto, suas fórmulas e descrições, acesse a **[Documentação das Medidas](docs/medidas-documentacao.md)**.
 
-## 👨‍💻 Autor
+## 👤 Autor
 
 Projeto desenvolvido como parte do meu portfólio profissional em **Business Intelligence e Data Analytics**, destacando habilidades avançadas e aplicáveis a diversos cenários analíticos:
 
