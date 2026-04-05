@@ -27,6 +27,8 @@
 ---
 
 ## 📊 Visão Geral
+[← Topo](#projeto-recursos-humanos--nexora-group)
+<br>
 
 Este projeto apresenta um **dashboard de pesquisa de satisfação dos colaboradores**, desenvolvido em **Power BI**, para a empresa fictícia **Nexora Group**.
 
